@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color:#aaaaaa;
+	font-size: 15px;
+}
+
+a {
+	text-decoration:none;
+}
+
+h1 {
+	font-size: 20px/20px;
+	color: #282828;
+}
+
+h2 {
+	font-size: 16px/16px;
+	color: #282828;
+}
+
+img {
+	border:none;
+}
