@@ -25,3 +25,19 @@ h2 {
 img {
 	border:none;
 }
+
+#imagearea {
+	position: relative;
+}
+
+#imagearea img{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+#imagearea map{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
